@@ -72,3 +72,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/VRTemplateAssets/Videos/onboarding_video_final.mp4
+Assets/VRTemplateAssets/Videos/onboarding_video_final.mp4.meta
+Assets/Dypsloom/RhythmTimeline/Rhythm Timeline 2 Documentation.pdf
+Assets/Dypsloom/RhythmTimeline/Rhythm Timeline 2 Documentation.pdf.meta
+Assets/VRTemplateAssets/Materials/Skybox/skybox01_openGL.png
+Assets/VRTemplateAssets/Materials/Skybox/skybox01_openGL.png.meta

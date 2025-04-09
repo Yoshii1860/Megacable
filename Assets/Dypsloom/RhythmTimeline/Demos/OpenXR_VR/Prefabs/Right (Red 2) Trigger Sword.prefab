@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1145924674433174878
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 108815209304926132, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9abef699dad29b3408b0bbd6d5dbc39f, type: 2}
+    - target: {fileID: 1113559023513216025, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9abef699dad29b3408b0bbd6d5dbc39f, type: 2}
+    - target: {fileID: 1163582675807200106, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_Index
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1163582675807200106, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1163582675807200106, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1163582675807200106, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1163582675807200106, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2904385164030712316, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_Name
+      value: Right (Red 2) Trigger Sword
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0385
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9594563
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.28185728
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -32.742
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8502940327240155461, guid: c40ea548b496e24468c2ea5aa9c453e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c40ea548b496e24468c2ea5aa9c453e7, type: 3}

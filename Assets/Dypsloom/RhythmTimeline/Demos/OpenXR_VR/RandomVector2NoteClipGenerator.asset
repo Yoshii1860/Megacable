@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958217c54e534f02901e9bdea9757426, type: 3}
+  m_Name: RandomVector2NoteClipGenerator
+  m_EditorClassIdentifier: 
+  RhythmTimelineAsset: {fileID: 11400000, guid: c085529115528c9448ed80c15046c084,
+    type: 2}
+  TrackID: 0
+  NoteDefinition: {fileID: 11400000, guid: 6eb7b211639fcf948869dd862742bc87, type: 2}
+  OverrideOption: 0
+  bpm: 120
+  step: -1
+  noteSpacing: 0
+  noteLength: 0.10000000149011612
+  startTime: 0
+  endTime: 100
+  MinValues: {x: -2, y: -2}
+  MaxValues: {x: 2, y: 2}
