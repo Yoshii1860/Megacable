@@ -78,3 +78,592 @@ Assets/Dypsloom/RhythmTimeline/Rhythm Timeline 2 Documentation.pdf
 Assets/Dypsloom/RhythmTimeline/Rhythm Timeline 2 Documentation.pdf.meta
 Assets/VRTemplateAssets/Materials/Skybox/skybox01_openGL.png
 Assets/VRTemplateAssets/Materials/Skybox/skybox01_openGL.png.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/BASS.wav
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/BASS.wav.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/CustomElectroSong.asset
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/CustomElectroSong.asset.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/doesnotcompute.wav
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/doesnotcompute.wav.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/drums.wav
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/drums.wav.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/organo.wav
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/organo.wav.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/RandomVector2NoteClipGenerator.asset
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/RandomVector2NoteClipGenerator.asset.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/scaryrobot.wav
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/scaryrobot.wav.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/secuencias.wav
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/secuencias.wav.meta
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/synths.wav
+Assets/Dypsloom/RhythmTimeline/Demos/OpenXR_VR/Songs/Custom/synths.wav.meta
+Assets/Starfield Skybox/Demo.meta
+Assets/Starfield Skybox/Skybox.mat
+Assets/Starfield Skybox/Skybox.mat.meta
+Assets/Starfield Skybox/Demo/Textures.meta
+Assets/Starfield Skybox/Demo/Textures/Back_Tex.png
+Assets/Starfield Skybox/Demo/Textures/Back_Tex.png.meta
+Assets/Starfield Skybox/Demo/Textures/Down_Tex.png
+Assets/Starfield Skybox/Demo/Textures/Down_Tex.png.meta
+Assets/Starfield Skybox/Demo/Textures/Front_Tex.png
+Assets/Starfield Skybox/Demo/Textures/Front_Tex.png.meta
+Assets/Starfield Skybox/Demo/Textures/Left_Tex.png
+Assets/Starfield Skybox/Demo/Textures/Left_Tex.png.meta
+Assets/Starfield Skybox/Demo/Textures/Right_Tex.png
+Assets/Starfield Skybox/Demo/Textures/Right_Tex.png.meta
+Assets/Starfield Skybox/Demo/Textures/Up_Tex.png
+Assets/Starfield Skybox/Demo/Textures/Up_Tex.png.meta
+Assets/Vast Outer Space/Materials.meta
+Assets/Vast Outer Space/Meshes.meta
+Assets/Vast Outer Space/Prefabs.meta
+Assets/Vast Outer Space/Textures.meta
+Assets/Vast Outer Space/Materials/Asteroid_A.mat
+Assets/Vast Outer Space/Materials/Asteroid_A.mat.meta
+Assets/Vast Outer Space/Materials/Asteroid_B.mat
+Assets/Vast Outer Space/Materials/Asteroid_B.mat.meta
+Assets/Vast Outer Space/Materials/Asteroid_C.mat
+Assets/Vast Outer Space/Materials/Asteroid_C.mat.meta
+Assets/Vast Outer Space/Materials/Asteroid_D.mat
+Assets/Vast Outer Space/Materials/Asteroid_D.mat.meta
+Assets/Vast Outer Space/Materials/Asteroid_E.mat
+Assets/Vast Outer Space/Materials/Asteroid_E.mat.meta
+Assets/Vast Outer Space/Materials/Asteroid_F.mat
+Assets/Vast Outer Space/Materials/Asteroid_F.mat.meta
+Assets/Vast Outer Space/Materials/Asteroid_G.mat
+Assets/Vast Outer Space/Materials/Asteroid_G.mat.meta
+Assets/Vast Outer Space/Materials/Asteroid_H.mat
+Assets/Vast Outer Space/Materials/Asteroid_H.mat.meta
+Assets/Vast Outer Space/Materials/Black.mat
+Assets/Vast Outer Space/Materials/Black.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_A.mat
+Assets/Vast Outer Space/Materials/Galaxy_A.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_B.mat
+Assets/Vast Outer Space/Materials/Galaxy_B.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_C.mat
+Assets/Vast Outer Space/Materials/Galaxy_C.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_D.mat
+Assets/Vast Outer Space/Materials/Galaxy_D.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_E.mat
+Assets/Vast Outer Space/Materials/Galaxy_E.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_F.mat
+Assets/Vast Outer Space/Materials/Galaxy_F.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_G.mat
+Assets/Vast Outer Space/Materials/Galaxy_G.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_H.mat
+Assets/Vast Outer Space/Materials/Galaxy_H.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_I.mat
+Assets/Vast Outer Space/Materials/Galaxy_I.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_J.mat
+Assets/Vast Outer Space/Materials/Galaxy_J.mat.meta
+Assets/Vast Outer Space/Materials/Galaxy_K.mat
+Assets/Vast Outer Space/Materials/Galaxy_K.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_A.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_A.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_B.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_B.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_C.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_C.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_D.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_D.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_E.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_E.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_F.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_F.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_G.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_G.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_H.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_H.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_I.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_I.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_J.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_J.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_K.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_K.mat.meta
+Assets/Vast Outer Space/Materials/Gas_Planet_L.mat
+Assets/Vast Outer Space/Materials/Gas_Planet_L.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_A.mat
+Assets/Vast Outer Space/Materials/Nebula_A.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_AB.mat
+Assets/Vast Outer Space/Materials/Nebula_AB.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_ABC.mat
+Assets/Vast Outer Space/Materials/Nebula_ABC.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_B.mat
+Assets/Vast Outer Space/Materials/Nebula_B.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_BC.mat
+Assets/Vast Outer Space/Materials/Nebula_BC.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_BCD.mat
+Assets/Vast Outer Space/Materials/Nebula_BCD.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_C.mat
+Assets/Vast Outer Space/Materials/Nebula_C.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_CD.mat
+Assets/Vast Outer Space/Materials/Nebula_CD.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_CDE.mat
+Assets/Vast Outer Space/Materials/Nebula_CDE.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_D.mat
+Assets/Vast Outer Space/Materials/Nebula_D.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_DE.mat
+Assets/Vast Outer Space/Materials/Nebula_DE.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_DEF.mat
+Assets/Vast Outer Space/Materials/Nebula_DEF.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_E.mat
+Assets/Vast Outer Space/Materials/Nebula_E.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_EF.mat
+Assets/Vast Outer Space/Materials/Nebula_EF.mat.meta
+Assets/Vast Outer Space/Materials/Nebula_F.mat
+Assets/Vast Outer Space/Materials/Nebula_F.mat.meta
+Assets/Vast Outer Space/Materials/Planet_A.mat
+Assets/Vast Outer Space/Materials/Planet_A.mat.meta
+Assets/Vast Outer Space/Materials/Planet_B.mat
+Assets/Vast Outer Space/Materials/Planet_B.mat.meta
+Assets/Vast Outer Space/Materials/Planet_C.mat
+Assets/Vast Outer Space/Materials/Planet_C.mat.meta
+Assets/Vast Outer Space/Materials/Planet_D.mat
+Assets/Vast Outer Space/Materials/Planet_D.mat.meta
+Assets/Vast Outer Space/Materials/Planet_E.mat
+Assets/Vast Outer Space/Materials/Planet_E.mat.meta
+Assets/Vast Outer Space/Materials/Planet_F.mat
+Assets/Vast Outer Space/Materials/Planet_F.mat.meta
+Assets/Vast Outer Space/Materials/Planet_G.mat
+Assets/Vast Outer Space/Materials/Planet_G.mat.meta
+Assets/Vast Outer Space/Materials/Planet_H.mat
+Assets/Vast Outer Space/Materials/Planet_H.mat.meta
+Assets/Vast Outer Space/Materials/Planet_I.mat
+Assets/Vast Outer Space/Materials/Planet_I.mat.meta
+Assets/Vast Outer Space/Materials/Planet_J.mat
+Assets/Vast Outer Space/Materials/Planet_J.mat.meta
+Assets/Vast Outer Space/Materials/Planet_K.mat
+Assets/Vast Outer Space/Materials/Planet_K.mat.meta
+Assets/Vast Outer Space/Materials/Planet_L.mat
+Assets/Vast Outer Space/Materials/Planet_L.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_A1.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_A1.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_A2.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_A2.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_B1.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_B1.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_B2.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_B2.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_C1.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_C1.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_C2.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_C2.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_D1.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_D1.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_D2.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_D2.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_E1.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_E1.mat.meta
+Assets/Vast Outer Space/Materials/Planet_Ring_E2.mat
+Assets/Vast Outer Space/Materials/Planet_Ring_E2.mat.meta
+Assets/Vast Outer Space/Materials/Skybox_A.mat
+Assets/Vast Outer Space/Materials/Skybox_A.mat.meta
+Assets/Vast Outer Space/Materials/Skybox_B.mat
+Assets/Vast Outer Space/Materials/Skybox_B.mat.meta
+Assets/Vast Outer Space/Materials/Skybox_C.mat
+Assets/Vast Outer Space/Materials/Skybox_C.mat.meta
+Assets/Vast Outer Space/Materials/Skybox_D.mat
+Assets/Vast Outer Space/Materials/Skybox_D.mat.meta
+Assets/Vast Outer Space/Materials/Skybox_E.mat
+Assets/Vast Outer Space/Materials/Skybox_E.mat.meta
+Assets/Vast Outer Space/Materials/Skybox_F.mat
+Assets/Vast Outer Space/Materials/Skybox_F.mat.meta
+Assets/Vast Outer Space/Materials/Skybox_G.mat
+Assets/Vast Outer Space/Materials/Skybox_G.mat.meta
+Assets/Vast Outer Space/Materials/Star_Dark_Blue.mat
+Assets/Vast Outer Space/Materials/Star_Dark_Blue.mat.meta
+Assets/Vast Outer Space/Materials/Star_Green.mat
+Assets/Vast Outer Space/Materials/Star_Green.mat.meta
+Assets/Vast Outer Space/Materials/Star_Light_Blue.mat
+Assets/Vast Outer Space/Materials/Star_Light_Blue.mat.meta
+Assets/Vast Outer Space/Materials/Star_Orange.mat
+Assets/Vast Outer Space/Materials/Star_Orange.mat.meta
+Assets/Vast Outer Space/Materials/Star_Pink.mat
+Assets/Vast Outer Space/Materials/Star_Pink.mat.meta
+Assets/Vast Outer Space/Materials/Star_Purple.mat
+Assets/Vast Outer Space/Materials/Star_Purple.mat.meta
+Assets/Vast Outer Space/Materials/Star_Red.mat
+Assets/Vast Outer Space/Materials/Star_Red.mat.meta
+Assets/Vast Outer Space/Materials/Star_Turquoise.mat
+Assets/Vast Outer Space/Materials/Star_Turquoise.mat.meta
+Assets/Vast Outer Space/Materials/Star_White.mat
+Assets/Vast Outer Space/Materials/Star_White.mat.meta
+Assets/Vast Outer Space/Materials/Star_Yellow.mat
+Assets/Vast Outer Space/Materials/Star_Yellow.mat.meta
+Assets/Vast Outer Space/Materials/Sun.mat
+Assets/Vast Outer Space/Materials/Sun.mat.meta
+Assets/Vast Outer Space/Materials/Sun_Flames.mat
+Assets/Vast Outer Space/Materials/Sun_Flames.mat.meta
+Assets/Vast Outer Space/Meshes/Asteroids.fbx
+Assets/Vast Outer Space/Meshes/Asteroids.fbx.meta
+Assets/Vast Outer Space/Meshes/Galaxies_and_Nebulae.fbx
+Assets/Vast Outer Space/Meshes/Galaxies_and_Nebulae.fbx.meta
+Assets/Vast Outer Space/Meshes/Materials.meta
+Assets/Vast Outer Space/Meshes/Planet_Rings.fbx
+Assets/Vast Outer Space/Meshes/Planet_Rings.fbx.meta
+Assets/Vast Outer Space/Meshes/Planets.fbx
+Assets/Vast Outer Space/Meshes/Planets.fbx.meta
+Assets/Vast Outer Space/Meshes/Skyboxes.fbx
+Assets/Vast Outer Space/Meshes/Skyboxes.fbx.meta
+Assets/Vast Outer Space/Meshes/Materials/M_Skybox_A.mat
+Assets/Vast Outer Space/Meshes/Materials/M_Skybox_A.mat.meta
+Assets/Vast Outer Space/Prefabs/Asteroids.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_A.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_B.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_C.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_C.prefab.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_D.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_D.prefab.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_E.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_E.prefab.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_F.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_F.prefab.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_G.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_G.prefab.meta
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_H.prefab
+Assets/Vast Outer Space/Prefabs/Asteroids/Asteroid_H.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Large.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Large.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Medium.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Medium.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Small.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Galaxy_Small.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Large.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Large.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Medium.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Medium.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Small.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Nebula_Small.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_A.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_B.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_C.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_C.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_D.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_D.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_E.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_E.prefab.meta
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_F.prefab
+Assets/Vast Outer Space/Prefabs/Galaxies and Nebulae/Supernova_F.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_A.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_B.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_C.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_C.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_D.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_D.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_E.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_E.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_F.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_F.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_G.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_G.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_H.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_H.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_I.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_I.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_J.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_J.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_K.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_K.prefab.meta
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_L.prefab
+Assets/Vast Outer Space/Prefabs/Gas_Planets/Gas_Planet_L.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_A.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_B.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Dense_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_A.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_B.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Asteroids_Scattered_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Dense.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Dense.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Scattered.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Distant_Stars_Scattered.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Nebula_Cloud.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Nebula_Cloud.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Fast.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Fast.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Medium.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Medium.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Slow.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Stars_Flyby_Slow.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_A.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_B.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_C.prefab
+Assets/Vast Outer Space/Prefabs/Particle Effects/Warp_Drive_C.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A1.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A1.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A2.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_A2.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B1.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B1.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B2.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_B2.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C1.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C1.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C2.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_C2.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D1.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D1.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D2.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_D2.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E1.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E1.prefab.meta
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E2.prefab
+Assets/Vast Outer Space/Prefabs/Planet_Rings/Planet_Ring_E2.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_A.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_B.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_C.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_C.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_D.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_D.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_E.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_E.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_F.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_F.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_G.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_G.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_H.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_H.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_I.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_I.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_J.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_J.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_K.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_K.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_L.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Planet_L.prefab.meta
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Sun.prefab
+Assets/Vast Outer Space/Prefabs/Regular_Planets/Sun.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_A.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_A.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_B.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_B.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_C.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_C.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_D.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_D.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_E.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_E.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_F.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_F.prefab.meta
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_G.prefab
+Assets/Vast Outer Space/Prefabs/Skyboxes/Skybox_G.prefab.meta
+Assets/Vast Outer Space/Textures/Asteroid_A.png
+Assets/Vast Outer Space/Textures/Asteroid_A.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_B.png
+Assets/Vast Outer Space/Textures/Asteroid_B.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_C.png
+Assets/Vast Outer Space/Textures/Asteroid_C.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_D.png
+Assets/Vast Outer Space/Textures/Asteroid_D.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_E.png
+Assets/Vast Outer Space/Textures/Asteroid_E.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_F.png
+Assets/Vast Outer Space/Textures/Asteroid_F.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_G.png
+Assets/Vast Outer Space/Textures/Asteroid_G.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_H.png
+Assets/Vast Outer Space/Textures/Asteroid_H.png.meta
+Assets/Vast Outer Space/Textures/Asteroid_NRM.png
+Assets/Vast Outer Space/Textures/Asteroid_NRM.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_A.png
+Assets/Vast Outer Space/Textures/Galaxy_A.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_B.png
+Assets/Vast Outer Space/Textures/Galaxy_B.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_C.png
+Assets/Vast Outer Space/Textures/Galaxy_C.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_D.png
+Assets/Vast Outer Space/Textures/Galaxy_D.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_E.png
+Assets/Vast Outer Space/Textures/Galaxy_E.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_F.png
+Assets/Vast Outer Space/Textures/Galaxy_F.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_G.png
+Assets/Vast Outer Space/Textures/Galaxy_G.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_H.png
+Assets/Vast Outer Space/Textures/Galaxy_H.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_I.png
+Assets/Vast Outer Space/Textures/Galaxy_I.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_J.png
+Assets/Vast Outer Space/Textures/Galaxy_J.png.meta
+Assets/Vast Outer Space/Textures/Galaxy_K.png
+Assets/Vast Outer Space/Textures/Galaxy_K.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_A.png
+Assets/Vast Outer Space/Textures/Gas_Planet_A.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_B.png
+Assets/Vast Outer Space/Textures/Gas_Planet_B.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_C.png
+Assets/Vast Outer Space/Textures/Gas_Planet_C.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_D.png
+Assets/Vast Outer Space/Textures/Gas_Planet_D.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_E.png
+Assets/Vast Outer Space/Textures/Gas_Planet_E.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_F.png
+Assets/Vast Outer Space/Textures/Gas_Planet_F.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_G.png
+Assets/Vast Outer Space/Textures/Gas_Planet_G.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_H.png
+Assets/Vast Outer Space/Textures/Gas_Planet_H.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_I.png
+Assets/Vast Outer Space/Textures/Gas_Planet_I.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_J.png
+Assets/Vast Outer Space/Textures/Gas_Planet_J.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_K.png
+Assets/Vast Outer Space/Textures/Gas_Planet_K.png.meta
+Assets/Vast Outer Space/Textures/Gas_Planet_L.png
+Assets/Vast Outer Space/Textures/Gas_Planet_L.png.meta
+Assets/Vast Outer Space/Textures/Nebula_A.png
+Assets/Vast Outer Space/Textures/Nebula_A.png.meta
+Assets/Vast Outer Space/Textures/Nebula_AB.png
+Assets/Vast Outer Space/Textures/Nebula_AB.png.meta
+Assets/Vast Outer Space/Textures/Nebula_ABC.png
+Assets/Vast Outer Space/Textures/Nebula_ABC.png.meta
+Assets/Vast Outer Space/Textures/Nebula_B.png
+Assets/Vast Outer Space/Textures/Nebula_B.png.meta
+Assets/Vast Outer Space/Textures/Nebula_BC.png
+Assets/Vast Outer Space/Textures/Nebula_BC.png.meta
+Assets/Vast Outer Space/Textures/Nebula_BCD.png
+Assets/Vast Outer Space/Textures/Nebula_BCD.png.meta
+Assets/Vast Outer Space/Textures/Nebula_C.png
+Assets/Vast Outer Space/Textures/Nebula_C.png.meta
+Assets/Vast Outer Space/Textures/Nebula_CD.png
+Assets/Vast Outer Space/Textures/Nebula_CD.png.meta
+Assets/Vast Outer Space/Textures/Nebula_CDE.png
+Assets/Vast Outer Space/Textures/Nebula_CDE.png.meta
+Assets/Vast Outer Space/Textures/Nebula_D.png
+Assets/Vast Outer Space/Textures/Nebula_D.png.meta
+Assets/Vast Outer Space/Textures/Nebula_DE.png
+Assets/Vast Outer Space/Textures/Nebula_DE.png.meta
+Assets/Vast Outer Space/Textures/Nebula_DEF.png
+Assets/Vast Outer Space/Textures/Nebula_DEF.png.meta
+Assets/Vast Outer Space/Textures/Nebula_E.png
+Assets/Vast Outer Space/Textures/Nebula_E.png.meta
+Assets/Vast Outer Space/Textures/Nebula_EF.png
+Assets/Vast Outer Space/Textures/Nebula_EF.png.meta
+Assets/Vast Outer Space/Textures/Nebula_F.png
+Assets/Vast Outer Space/Textures/Nebula_F.png.meta
+Assets/Vast Outer Space/Textures/Planet_A.png
+Assets/Vast Outer Space/Textures/Planet_A.png.meta
+Assets/Vast Outer Space/Textures/Planet_A_NRM.png
+Assets/Vast Outer Space/Textures/Planet_A_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_B.png
+Assets/Vast Outer Space/Textures/Planet_B.png.meta
+Assets/Vast Outer Space/Textures/Planet_B_NRM.png
+Assets/Vast Outer Space/Textures/Planet_B_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_C.png
+Assets/Vast Outer Space/Textures/Planet_C.png.meta
+Assets/Vast Outer Space/Textures/Planet_C_NRM.png
+Assets/Vast Outer Space/Textures/Planet_C_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_D.png
+Assets/Vast Outer Space/Textures/Planet_D.png.meta
+Assets/Vast Outer Space/Textures/Planet_D_NRM.png
+Assets/Vast Outer Space/Textures/Planet_D_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_E.png
+Assets/Vast Outer Space/Textures/Planet_E.png.meta
+Assets/Vast Outer Space/Textures/Planet_E_NRM.png
+Assets/Vast Outer Space/Textures/Planet_E_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_F.png
+Assets/Vast Outer Space/Textures/Planet_F.png.meta
+Assets/Vast Outer Space/Textures/Planet_F_NRM.png
+Assets/Vast Outer Space/Textures/Planet_F_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_G.png
+Assets/Vast Outer Space/Textures/Planet_G.png.meta
+Assets/Vast Outer Space/Textures/Planet_G_NRM.png
+Assets/Vast Outer Space/Textures/Planet_G_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_H.png
+Assets/Vast Outer Space/Textures/Planet_H.png.meta
+Assets/Vast Outer Space/Textures/Planet_H_NRM.png
+Assets/Vast Outer Space/Textures/Planet_H_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_I.png
+Assets/Vast Outer Space/Textures/Planet_I.png.meta
+Assets/Vast Outer Space/Textures/Planet_I_NRM.png
+Assets/Vast Outer Space/Textures/Planet_I_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_J.png
+Assets/Vast Outer Space/Textures/Planet_J.png.meta
+Assets/Vast Outer Space/Textures/Planet_J_NRM.png
+Assets/Vast Outer Space/Textures/Planet_J_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_K.png
+Assets/Vast Outer Space/Textures/Planet_K.png.meta
+Assets/Vast Outer Space/Textures/Planet_K_NRM.png
+Assets/Vast Outer Space/Textures/Planet_K_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_L.png
+Assets/Vast Outer Space/Textures/Planet_L.png.meta
+Assets/Vast Outer Space/Textures/Planet_L_NRM.png
+Assets/Vast Outer Space/Textures/Planet_L_NRM.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_A1.png
+Assets/Vast Outer Space/Textures/Planet_Ring_A1.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_A2.png
+Assets/Vast Outer Space/Textures/Planet_Ring_A2.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_B1.png
+Assets/Vast Outer Space/Textures/Planet_Ring_B1.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_B2.png
+Assets/Vast Outer Space/Textures/Planet_Ring_B2.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_C1.png
+Assets/Vast Outer Space/Textures/Planet_Ring_C1.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_C2.png
+Assets/Vast Outer Space/Textures/Planet_Ring_C2.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_D1.png
+Assets/Vast Outer Space/Textures/Planet_Ring_D1.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_D2.png
+Assets/Vast Outer Space/Textures/Planet_Ring_D2.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_E1.png
+Assets/Vast Outer Space/Textures/Planet_Ring_E1.png.meta
+Assets/Vast Outer Space/Textures/Planet_Ring_E2.png
+Assets/Vast Outer Space/Textures/Planet_Ring_E2.png.meta
+Assets/Vast Outer Space/Textures/Skybox_A.png
+Assets/Vast Outer Space/Textures/Skybox_A.png.meta
+Assets/Vast Outer Space/Textures/Skybox_B.png
+Assets/Vast Outer Space/Textures/Skybox_B.png.meta
+Assets/Vast Outer Space/Textures/Skybox_C.png
+Assets/Vast Outer Space/Textures/Skybox_C.png.meta
+Assets/Vast Outer Space/Textures/Skybox_D.png
+Assets/Vast Outer Space/Textures/Skybox_D.png.meta
+Assets/Vast Outer Space/Textures/Skybox_E.png
+Assets/Vast Outer Space/Textures/Skybox_E.png.meta
+Assets/Vast Outer Space/Textures/Skybox_F.png
+Assets/Vast Outer Space/Textures/Skybox_F.png.meta
+Assets/Vast Outer Space/Textures/Skybox_G.png
+Assets/Vast Outer Space/Textures/Skybox_G.png.meta
+Assets/Vast Outer Space/Textures/Star_Dark_Blue.png
+Assets/Vast Outer Space/Textures/Star_Dark_Blue.png.meta
+Assets/Vast Outer Space/Textures/Star_Green.png
+Assets/Vast Outer Space/Textures/Star_Green.png.meta
+Assets/Vast Outer Space/Textures/Star_Light_Blue.png
+Assets/Vast Outer Space/Textures/Star_Light_Blue.png.meta
+Assets/Vast Outer Space/Textures/Star_Orange.png
+Assets/Vast Outer Space/Textures/Star_Orange.png.meta
+Assets/Vast Outer Space/Textures/Star_Pink.png
+Assets/Vast Outer Space/Textures/Star_Pink.png.meta
+Assets/Vast Outer Space/Textures/Star_Purple.png
+Assets/Vast Outer Space/Textures/Star_Purple.png.meta
+Assets/Vast Outer Space/Textures/Star_Red.png
+Assets/Vast Outer Space/Textures/Star_Red.png.meta
+Assets/Vast Outer Space/Textures/Star_Turquoise.png
+Assets/Vast Outer Space/Textures/Star_Turquoise.png.meta
+Assets/Vast Outer Space/Textures/Star_White.png
+Assets/Vast Outer Space/Textures/Star_White.png.meta
+Assets/Vast Outer Space/Textures/Star_Yellow.png
+Assets/Vast Outer Space/Textures/Star_Yellow.png.meta
+Assets/Vast Outer Space/Textures/Sun.png
+Assets/Vast Outer Space/Textures/Sun.png.meta
+Assets/Vast Outer Space/Textures/Sun_Flames.png
+Assets/Vast Outer Space/Textures/Sun_Flames.png.meta
+Assets/Vast Outer Space/Textures/Sun_NRM.png
+Assets/Vast Outer Space/Textures/Sun_NRM.png.meta

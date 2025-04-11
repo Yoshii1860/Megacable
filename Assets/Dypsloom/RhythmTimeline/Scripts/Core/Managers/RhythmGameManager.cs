@@ -108,6 +108,7 @@ namespace Dypsloom.RhythmTimeline.Core.Managers
     
         public void OnSongEnd()
         {
+            ParticleSystemManager.Instance.ResetPS();
             m_IsPlaying = false;
             if(Application.isPlaying == false){ return; }
             
@@ -153,6 +154,7 @@ namespace Dypsloom.RhythmTimeline.Core.Managers
 
         public void Pause()
         {
+            ParticleSystemManager.Instance.PausePS();
             m_PauseMenu.SetActive(true);
             m_Paused = true;
             Time.timeScale = 0;
@@ -162,6 +164,7 @@ namespace Dypsloom.RhythmTimeline.Core.Managers
     
         public void UnPause()
         {
+            ParticleSystemManager.Instance.UnpausePS();
             m_PauseMenu.SetActive(false);
             m_Paused = false;
             Time.timeScale = 1;
